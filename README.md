@@ -1,3 +1,2 @@
-# Glo-sessions
-pricing page 
+# Glo-session
 pricing page
